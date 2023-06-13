@@ -1,2 +1,2 @@
 # Exercise
-Just for the exercise
+Just for the exercise on Tuesday
